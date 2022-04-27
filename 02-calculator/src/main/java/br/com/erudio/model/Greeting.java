@@ -1,7 +1,6 @@
-package br.com.erudio;
+package br.com.erudio.model;
 
 import lombok.Getter;
-import lombok.Setter;
 
 public class Greeting {
 
